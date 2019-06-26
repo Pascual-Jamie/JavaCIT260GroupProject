@@ -16,7 +16,7 @@ public class A6dot7 {
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
 
-		// Ask for user input on amount invested:
+		//  Ask for user input on amount invested:
 		System.out.print("The amount invested: ");
 		double investment = input.nextDouble();
 

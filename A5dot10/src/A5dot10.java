@@ -22,6 +22,6 @@ public class A5dot10 {
 			if (i % 5 == 0 && i % 6 == 0)
 				System.out.print((count++ % 10 != 0) ? i + " " : i + "\n");
 
-	}
+	} 
 
 }

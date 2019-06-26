@@ -3,7 +3,7 @@
  */
 
 /**
- * @author Jamie Pascual
+ *  @author Jamie Pascual
  *
  */
 import java.util.Scanner;
