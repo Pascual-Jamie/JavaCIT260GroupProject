@@ -21,4 +21,4 @@ public class Sites {
 
 
 
-//  this is for the Array list of other objects
+//  this is for the Array list of other objects.
