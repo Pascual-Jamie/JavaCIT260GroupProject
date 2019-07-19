@@ -3,7 +3,7 @@ package views;
 /**
  * @author Jamie Pascual 
  * @author Amilcar Arellano 
- */
+ */ 
 public class MainMenuView extends View {
 
 	public MainMenuView() {

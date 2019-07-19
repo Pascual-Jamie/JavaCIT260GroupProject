@@ -3,7 +3,7 @@ package views;
 
 /** 
  * @author Jamie Pascual
- * @author Amilcar Arellano 
+ * @author Amilcar Arellano  
  */
 
 public interface ViewInterface {

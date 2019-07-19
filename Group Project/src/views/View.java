@@ -2,7 +2,7 @@ package views;
 
 /**
  * @author Jamie Pascual 
- * @author Amilcar Arellano 
+ * @author Amilcar Arellano  
  */
 
 import java.util.Scanner;

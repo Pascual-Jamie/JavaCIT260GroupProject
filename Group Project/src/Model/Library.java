@@ -5,7 +5,7 @@ package Model;
 
 /**
  * @author Jamie Pascual
- * @author Amilcar Arellano 
+ * @author Amilcar Arellano  
  */
 public class Library {
 
