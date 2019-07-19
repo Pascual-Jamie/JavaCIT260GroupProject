@@ -4,8 +4,8 @@
 package Model;
 
 /**
- * @author moons
- *
+ * @author Jamie Pascual 
+ * @author Amilcar Arellano 
  */
 public class Sites {
 
